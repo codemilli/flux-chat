@@ -3,5 +3,5 @@ firebase.json
 .babelrc
 .idea
 dist
-js/config.js
+js/config
 js/utils/firebase.js
