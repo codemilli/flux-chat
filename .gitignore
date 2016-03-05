@@ -1,0 +1,7 @@
+node_modules
+firebase.json
+.babelrc
+.idea
+dist
+js/config.js
+js/utils/firebase.js
