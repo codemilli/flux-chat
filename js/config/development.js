@@ -5,3 +5,4 @@
 export default {
     firebaseUrl: 'https://hckrchat.firebaseio.com/dev'
 };
+
