@@ -3,5 +3,7 @@ firebase.json
 .babelrc
 .idea
 dist
-js/config
+js/bundle.js
+js/bundle.js.map
+js/config/*
 js/utils/firebase.js
